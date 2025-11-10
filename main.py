@@ -8,7 +8,7 @@ while True:
     optionsShow("---------Bienvenido al programa---------", "Iniciar Sesion", "Registrarse","Salir")
     option = int(input("Escoja una opcion: "))
     clearConsole()
-    print("hola mierdas")
+    
     match option:
         case 1:
             user = Login()
