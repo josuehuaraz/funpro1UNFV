@@ -22,3 +22,4 @@ while True:
             break
         case __:
             print("Ingrese una opcion correcta")
+            print("majo no chambea......")
